@@ -1,0 +1,17 @@
+.home {
+  background-color: aqua;
+  // width: 200px;
+  // height: 200px;
+    &-paper {
+    // background-image: url(../../assets/icon-paper.svg);
+    // background-repeat: no-repeat;
+    padding: 20px;
+    } 
+    &-scissors {
+    padding: 20px;
+    }
+    &-rock {
+      padding: 20px;
+    }
+}
+
